@@ -1,12 +1,12 @@
 # running blade
 
-Carbon fibre
-    5000 eur +
-
 fibreglass
-    2000 eur +
+    1500 eur
 
 aluminium alloy
-    500 eur +
+    600 eur
 
 # piston / shock absorber
+
+solenoid
+    100 eur
