@@ -10,8 +10,8 @@
 
 # blade
 
-1 - carbon custom made
+2 + fibre glass custom made curved running blade
 
-2 - fibre glass custom made
+3 - spring steel ( 5160 ) custom made leaf spring 
 
-3 + spring steel ( 5160 )custom made
+# 
