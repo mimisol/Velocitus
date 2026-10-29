@@ -6,6 +6,9 @@ fibre glass
     manufacturer?
     https://acpcomposites.com/manufacturing-and-production
     LV - http://www.fiberglass.lv/kontakti/
+    LV - https://innovative-composites.lv/kontakti/
+    LV - https://amberlat.lv/en/contacts
+    LV - https://www.valmiera-glass.com/lv/kontakti/valmieras-stikla-skiedra-as/
 
 spring steel
 
