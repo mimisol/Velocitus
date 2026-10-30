@@ -5,6 +5,7 @@ carbon fibre
 fibre glass
     manufacturer?
     https://acpcomposites.com/manufacturing-and-production
+    https://www.grpcomposites.com/
     LV - http://www.fiberglass.lv/kontakti/
     LV - https://innovative-composites.lv/kontakti/
     LV - https://amberlat.lv/en/contacts
